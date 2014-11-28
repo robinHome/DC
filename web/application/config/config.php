@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://dc.test.com/razor/web';
+$config['base_url']	= 'http://dc.zhangxiaole.com/DC/web';
 
 /*
 |--------------------------------------------------------------------------

@@ -49,8 +49,8 @@ $active_group = 'default';
 $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'root';
-$db['default']['password'] = '123456';
+$db['default']['username'] = 'dc';
+$db['default']['password'] = 'qndc';
 $db['default']['database'] = 'dc';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = 'razor_';
@@ -66,8 +66,8 @@ $db['default']['stricton'] = FALSE;
 
 
 $db['dw']['hostname'] = 'localhost';
-$db['dw']['username'] = 'root';
-$db['dw']['password'] = '123456';
+$db['dw']['username'] = 'dc';
+$db['dw']['password'] = 'qndc';
 $db['dw']['database'] = 'dcstore';
 $db['dw']['dbdriver'] = 'mysql';
 $db['dw']['dbprefix'] = 'razor_';
